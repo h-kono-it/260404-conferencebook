@@ -30,6 +30,7 @@ const def = {
 	"chap-template.md",
 	"chap-dpon.md",
 	"chap-ryo.md",
+  "chap-forte.md",
   "chap-aizack.md",
 	"chap-fumiyasac.md",
 
